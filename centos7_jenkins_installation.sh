@@ -12,7 +12,7 @@
 IP=$(hostname -I | awk '{print $2}')
 echo "START - install jenkins - "$IP
 echo "=====> [1]: updating ...."
-sudo yum update -qq > /dev/null
+sudo yum update -y -q > /dev/null
 
 ## Prerequisites tools(curl, wget, ...) for Jenkins
 
