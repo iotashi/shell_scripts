@@ -1,8 +1,8 @@
-# ---------- SHELL SCRIPTING ----------
+# SHELL SCRIPTING
 
-This repo will repo will have common scripts needed to administer a linux machine.
+This repo will have common scripts needed to administer a linux machine.
 
-## Installation process
+## How to use?
 ```
 # git clone https://github.com/leffaceur007/ud120-projects.git
 ```
@@ -13,4 +13,4 @@ This repo will repo will have common scripts needed to administer a linux machin
 # ./scriptname
 ```
 
-Enjoy!!!
+**Enjoy!!!**
